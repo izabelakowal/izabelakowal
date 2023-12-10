@@ -4,8 +4,6 @@ I'm a software engineer living in Kraków, Poland.
 
 I like to build things, especially using Python :snake:
 
-I enjoy skateboarding :skateboard: and running :runner:
-
 You might like my latest blog posts:
 
 * [7 ways to implement DTOs in Python and what to keep in mind](https://dev.to/izabelakowal/some-ideas-on-how-to-implement-dtos-in-python-be3)
